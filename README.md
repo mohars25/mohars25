@@ -1,3 +1,5 @@
+
+body{background-color=red}
 <h1 align="center" font-size="220px" >Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
